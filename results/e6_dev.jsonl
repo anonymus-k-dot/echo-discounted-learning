@@ -1,0 +1,5 @@
+{"mode": "loop", "init": 4.0, "lr": 0.001, "wd": 0.1, "alpha": 0.05, "ls": 0.0, "seed": 0, "first": {"test80": 250, "train99": 500, "test85": 500, "test88": 1500}, "final": 0.8983, "best": 0.8983, "secs": 166.4}
+{"mode": "loop", "init": 4.0, "lr": 0.001, "wd": 0.1, "alpha": 0.1, "ls": 0.0, "seed": 0, "first": {"test80": 250, "train99": 500, "test85": 500, "test88": 1500}, "final": 0.8992, "best": 0.8994, "secs": 151.1}
+{"mode": "loop", "init": 4.0, "lr": 0.001, "wd": 0.1, "alpha": 0.2, "ls": 0.0, "seed": 0, "first": {"test80": 250, "train99": 500, "test85": 500, "test88": 1250}, "final": 0.8997, "best": 0.9, "secs": 138.3}
+{"mode": "std", "init": 4.0, "lr": 0.001, "wd": 0.1, "alpha": 0.1, "ls": 0.1, "seed": 0, "first": {"test80": 250, "train99": 500, "test85": 1000, "test88": 2750}, "final": 0.9039, "best": 0.9039, "secs": 105.0}
+{"mode": "rand", "init": 4.0, "lr": 0.001, "wd": 0.1, "alpha": 0.1, "ls": 0.0, "seed": 0, "first": {"test80": 250, "train99": 500, "test85": 500, "test88": 1750}, "final": 0.8971, "best": 0.8971, "secs": 228.1}

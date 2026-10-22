@@ -1,0 +1,8 @@
+FIRST {"train99": 400, "test50": 400, "test90": 400, "test99": 400} 507s
+FIRST {"train99": 200, "test50": 600, "test90": 600, "test99": 600} 348s
+FIRST {"train99": 400, "test50": 400, "test90": 600, "test99": 600} 524s
+FIRST {"train99": 200, "test50": 600, "test90": 600, "test99": 600} 317s
+FIRST {"train99": 200, "test50": 200, "test90": 200, "test99": 400} 326s
+FIRST {"train99": 200, "test50": 200, "test90": 400, "test99": 600} 269s
+FIRST {"train99": 400, "test50": 400, "test90": 400, "test99": 600} 339s
+FIRST {"train99": 200, "test50": 600, "test90": 800, "test99": 2800} 239s

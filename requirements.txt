@@ -1,0 +1,3 @@
+# Versions used for the recorded runs: Python 3.11, torch 2.14.0+cu130, numpy 2.4.4 (CUDA GPU required for the scripts as written)
+torch>=2.4
+numpy

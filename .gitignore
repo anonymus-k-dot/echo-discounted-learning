@@ -1,0 +1,5 @@
+# MNIST raw files are not redistributed here; see README ("Data")
+data/
+__pycache__/
+*.pyc
+*.pt

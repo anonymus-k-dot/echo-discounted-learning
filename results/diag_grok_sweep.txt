@@ -1,0 +1,5 @@
+{"args": {"p": 97, "frac": 0.2, "wd": 1.0, "lr": 0.001, "steps": 50000, "seed": 0, "act": "relu"}, "first_train99": 250, "first_test99": 42250, "secs": 56.419307470321655}
+{"args": {"p": 97, "frac": 0.15, "wd": 1.0, "lr": 0.001, "steps": 50000, "seed": 0, "act": "relu"}, "first_train99": 250, "first_test99": null, "secs": 50.300477266311646}
+{"args": {"p": 97, "frac": 0.1, "wd": 1.0, "lr": 0.001, "steps": 50000, "seed": 0, "act": "relu"}, "first_train99": 250, "first_test99": null, "secs": 52.70532941818237}
+{"args": {"p": 97, "frac": 0.3, "wd": 0.1, "lr": 0.001, "steps": 50000, "seed": 0, "act": "relu"}, "first_train99": 250, "first_test99": null, "secs": 55.89306426048279}
+{"args": {"p": 97, "frac": 0.3, "wd": 0.0, "lr": 0.001, "steps": 20000, "seed": 0, "act": "relu"}, "first_train99": 250, "first_test99": null, "secs": 22.11488127708435}

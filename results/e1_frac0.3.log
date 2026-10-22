@@ -1,0 +1,21 @@
+{"step": 0, "loss": 4.6028, "train": 0.0156, "test": 0.0091, "loo_own": 0.0004, "loo_rand": 0.0156, "inv_err": 0.0} 1s
+{"step": 2000, "loss": 159.1743, "train": 0.0156, "test": 0.008, "loo_own": 0.0, "loo_rand": 0.0149} 106s
+{"step": 4000, "loss": 2764781.8956, "train": 0.0156, "test": 0.008, "loo_own": 0.0, "loo_rand": 0.0145, "inv_err": 0.0303} 211s
+{"step": 6000, "loss": 13265116.4371, "train": 0.0156, "test": 0.008, "loo_own": 0.0, "loo_rand": 0.0138} 339s
+{"step": 8000, "loss": 38865733.1683, "train": 0.0156, "test": 0.008, "loo_own": 0.0, "loo_rand": 0.0138, "inv_err": 0.0141} 487s
+{"step": 12000, "loss": 2.8895252867056236e+16, "train": 0.0159, "test": 0.008, "loo_own": 0.0, "loo_rand": 0.0163, "inv_err": 0.0195} 878s
+FIRST {} 878s
+{"step": 0, "loss": 4.6028, "train": 0.0156, "test": 0.0091, "loo_own": 0.0004, "loo_rand": 0.0156, "inv_err": 0.0} 1s
+{"step": 2000, "loss": 0.0, "train": 1.0, "test": 0.0, "loo_own": 0.0, "loo_rand": 0.9901} 133s
+{"step": 4000, "loss": 0.0, "train": 1.0, "test": 0.0, "loo_own": 0.0, "loo_rand": 0.9933, "inv_err": 0.0045} 271s
+{"step": 6000, "loss": 0.0, "train": 1.0, "test": 0.0106, "loo_own": 0.0, "loo_rand": 0.9975} 409s
+{"step": 8000, "loss": 0.0, "train": 1.0, "test": 0.2552, "loo_own": 0.0, "loo_rand": 0.9986, "inv_err": 0.0016} 538s
+{"step": 12000, "loss": 0.0, "train": 1.0, "test": 0.9994, "loo_own": 0.0082, "loo_rand": 0.9993, "inv_err": 0.0018} 838s
+FIRST {"train99": 500, "test50": 9000, "test99": 11500} 838s
+{"step": 0, "loss": 4.6028, "train": 0.0156, "test": 0.0091, "loo_own": 0.0004, "loo_rand": 0.0156, "inv_err": 0.0} 1s
+{"step": 2000, "loss": 0.4322, "train": 0.9699, "test": 0.0, "loo_own": 0.0, "loo_rand": 0.9993} 281s
+{"step": 4000, "loss": 0.0669, "train": 0.9642, "test": 0.0002, "loo_own": 0.0, "loo_rand": 0.9996, "inv_err": 0.0188} 561s
+{"step": 6000, "loss": 0.0471, "train": 0.9763, "test": 0.0038, "loo_own": 0.0, "loo_rand": 0.9996} 836s
+{"step": 8000, "loss": 0.032, "train": 0.977, "test": 0.0295, "loo_own": 0.0, "loo_rand": 0.9996, "inv_err": 0.0319} 1131s
+{"step": 12000, "loss": 0.0258, "train": 0.9904, "test": 0.3595, "loo_own": 0.0011, "loo_rand": 0.9996, "inv_err": 0.0321} 1764s
+FIRST {"train99": 12000} 1764s

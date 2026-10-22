@@ -1,0 +1,8 @@
+FIRST {"train99": 200, "test50": 1800} 322s
+FIRST {"train99": 200, "test50": 7200} 178s
+FIRST {"train99": 600, "test50": 2800} 262s
+FIRST {"train99": 200, "test50": 1800} 211s
+FIRST {"train99": 200} 131s
+FIRST {"train99": 200} 76s
+FIRST {"train99": 200} 120s
+FIRST {"train99": 200} 109s
